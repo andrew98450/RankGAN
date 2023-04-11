@@ -1,0 +1,2 @@
+# RankGAN
+Sequence Generate Model.
