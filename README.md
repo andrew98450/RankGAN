@@ -1,6 +1,6 @@
 # RankGAN
 
-Implemention RankGAN using pytorch .
+Implemention RankGAN using pytorch.
 
 Train data using Taiwan CDC QA Dataset.
 
