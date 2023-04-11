@@ -1,5 +1,9 @@
 # RankGAN
 
-Sequence Generate Model.
+Implemention RankGAN using pytorch .
 
-https://arxiv.org/pdf/1705.11001.pdf
+This is sequence generate model.
+
+Reference: https://arxiv.org/abs/1705.11001
+
+
